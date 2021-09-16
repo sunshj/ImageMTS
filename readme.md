@@ -6,7 +6,8 @@
 
 ## 使用
 
-运行 [main.py](main.py)
+- 需要的库：PyQt5、os、os.path、sys、PIL
+- 运行 [main.py](main.py)
 
 ## 注意事项
 
